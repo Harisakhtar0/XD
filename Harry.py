@@ -16,7 +16,8 @@ if bit == '64bit':
 
 elif bit == '32bit':
 
-    print("NOT UPDATED YET BRO ")
+    from nono import menu
+    menu() 
 
 
 
